@@ -1,28 +1,4 @@
-# 🌌 Personal Portfolio – Lautaro 
-
----
-
-## 🚀 Características principales
-
-- ⚡️ Construido con **Astro** y **React** 
-- 🎨 **Diseño responsive**
-- 🧠 **Filtrado dinámico de proyectos**
-- 💬 Secciones personalizables: *Sobre mí*, *Proyectos*, *Experiencia*, *Contacto*  
-
----
-
-## 🧩 Tecnologías utilizadas
-
-- [Astro](https://astro.build/)  
-- [TailwindCSS](https://tailwindcss.com/)  
-- [TypeScript / JavaScript]  
-- [React (en componentes selectivos)]  
-- [Vite](https://vitejs.dev/)  
-
----
-
-## 📂 Estructura del proyecto
-
+# 🌌 Portifolio Leonardo
 
 
 ## 🚀 Project Structure
@@ -32,14 +8,14 @@ Inside of your Astro project, you'll see the following folders and files:
 ```text
 /
 ├── public/
-│ └── images/ # Recursos estáticos
+│ └── images/ # Static images
 ├── src/
-│ ├── components/ # Componentes reutilizables
-│ ├── layouts/ # Layout base
-│ ├── pages/ # Páginas principales (index, proyectos, etc.)
-│ ├── scripts/ # JS para interactividad (filtro, animaciones)
-│ ├── styles/ # CSS global o módulos
-│ └── data/ # Datos (proyectos, experiencia)
+│ ├── components/ # Components
+│ ├── layouts/ # Base Layout
+│ ├── pages/ # Main pages
+│ ├── scripts/ # Animations and etc.
+│ ├── styles/ # CSS global
+│ └── data/ # Data, projects, experience
 └── astro.config.mjs
 ```
 
@@ -57,8 +33,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run preview`         | Preview your build locally, before deploying     |
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
-
----
-![Portfolio](https://github.com/user-attachments/assets/8c01d06f-2d36-46c1-a3ff-a6f7bf73ab67)
-
-
